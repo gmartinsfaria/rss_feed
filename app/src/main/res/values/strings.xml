@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RSS Feed</string>
+
+    <string name="checkbox0">com.example.gmart.noticias.checkbox0</string>
+    <string name="checkbox1">com.example.gmart.noticias.checkbox1</string>
+    <string name="checkbox2">com.example.gmart.noticias.checkbox2</string>
+    <string name="checkbox3">com.example.gmart.noticias.checkbox3</string>
+    <string name="checkbox4">com.example.gmart.noticias.checkbox4</string>
+    <string name="checkbox5">com.example.gmart.noticias.checkbox5</string>
+    <string name="checkbox6">com.example.gmart.noticias.checkbox6</string>
+    <string name="checkbox7">com.example.gmart.noticias.checkbox7</string>
+
+    <string-array name="preference">
+        <item>Última Hora</item>
+        <item>Política</item>
+        <item>Economia</item>
+        <item>Desporto</item>
+        <item>País</item>
+        <item>Mundo</item>
+        <item>Cultura</item>
+        <item>Casa</item>
+    </string-array>
+</resources>

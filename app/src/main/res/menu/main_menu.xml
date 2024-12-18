@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@mipmap/ic_launcher_procurar"
+        android:orderInCategory="100"
+        android:title="Procurar"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@mipmap/ic_launcher_refresh"
+        android:orderInCategory="100"
+        android:title="Procurar"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_mais"
+        android:icon="@mipmap/ic_more"
+        android:orderInCategory="100"
+        android:title="Procurar"
+        app:showAsAction="always"
+        />
+</menu>
